@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Atharva Kumbhar</h1>
 <h3 align="center">A passionate Coder from India</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/code-developer-sharepoint-XE90Rm9DzCVfHb7zTe">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/XE90Rm9DzCVfHb7zTe/giphy.gif?cid=ecf05e47dsyxswb5p1follhvbnc8rm3wpdcedj9bjezfkhdr&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharva9124&label=Profile%20views&color=0e75b6&style=flat" alt="atharva9124" /> </p>
