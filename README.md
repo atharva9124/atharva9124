@@ -28,5 +28,5 @@
 ## 🔥 Streak stats
 <p align="center">
   <a href="https://github.com/omkar669/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="omkar669's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=omkar669&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="atharva9124's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=9124&theme=monokai-metallian&hide_border=true"/>
   </a>
