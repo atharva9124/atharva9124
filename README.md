@@ -1,9 +1,9 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <div align="center">
-   <h1>Hi there, I'm <a href="https://hemant.codes">Atharva</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Hi there, I'm  <a href="https://hemant.codes">Atharva</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
     <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Nice+to+meet+you!&center=true&width=480&height=40">
-<h3 align="center">A passionate Coder from India</h3>
+<h2 align="center">A passionate Coder from India</h2>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e479gi1whxtf6jqxrjmbmmswrx2ydm0xhxlo3x7ghel&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently college pursuing my **IT Engineering**
@@ -25,4 +25,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharva9124&show_icons=true&locale=en" alt="atharva9124" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharva9124&" alt="atharva9124" /></p>
+## 🔥 Streak stats
+<p align="center">
+  <a href="https://github.com/omkar669/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="omkar669's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=omkar669&theme=monokai-metallian&hide_border=true"/>
+  </a>
